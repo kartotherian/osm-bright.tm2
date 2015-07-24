@@ -1,0 +1,44 @@
+#!/usr/bin/python
+
+import sys, os, inspect, shutil, glob
+
+def dieUsage():
+    print 'Usage: python make-fonts.py <NotoSans directory>\n'
+    sys.exit(1)
+
+if len(sys.argv) < 2:
+    dieUsage()
+
+fontDir = sys.argv[1]
+if not fontDir.endswith('/'): fontDir += '/'
+
+files = []
+scripts = ['Armenian', 'Balinese', 'Bengali', 'Devanagari', 'Ethiopic', 'Georgian', 'Gujarati', 'Gurmukhi', 'Hebrew', 'Javanese', 'Kannada', 'Khmer', 'Lao', 'Malayam', 'Mongolian', 'Myanmar', 'Oriya', 'Sinhala', 'Tamil', 'Thai', 'Tibetan']
+
+rootDir = os.path.abspath(os.path.dirname(os.path.dirname(inspect.getfile(inspect.currentframe())))) + '/'
+
+def filename(style, script = None, ext = 'ttf'):
+    res = fontDir + 'NotoSans'
+    if script != None:
+        res += script
+    return res + '-' + style + '.' + ext
+
+def findFont(style, script):
+    fn = filename(style, script, 'ttf')
+    if os.path.isfile(fn): return fn
+    fn = filename(style, script, 'otf')
+    if os.path.isfile(fn): return fn
+    return False
+
+for style in ['Regular', 'Bold', 'Italic']:
+    fn = filename(style, ext = 'ttf')
+    shutil.copy(fn, rootDir + 'fonts')
+    for script in ['Regular', 'Bold', 'Italic']:
+        fn = findFont(style, script)
+        if not fn: continue
+        shutil.copy(fn, rootDir + 'fonts')
+
+list = glob.glob(fontDir + 'NotoNaskhArabic*')
+list.extend(glob.glob(fontDir + 'LICENSE*'))
+for file in list:
+    shutil.copy(file, rootDir + 'fonts')
