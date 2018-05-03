@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# Use this script to copy a subset of the Google Noto fonts into the ./fonts directory.
+# The fonts to select are based on the 'scripts' variable below.
+
 import sys, os, inspect, shutil, glob
 
 def dieUsage():
