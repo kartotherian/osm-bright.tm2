@@ -82,7 +82,7 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#53536c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#53536c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline"
      id="path4616-1"
      d="m 1,1 c -3.5,12 6.5,15.5 9.5,16 3,-0.5 13,-4 9.5,-16 C 18,2 12.5,2 10.5,1 8.5000004,2 3,2 1,1 z"
      sodipodi:nodetypes="ccccc" />
@@ -93,7 +93,7 @@
      d="m 1.5,4 c 4,-0.5 14,-0.5 18,0 1,5.5 -2.5,10 -9,12 C 4,14 0.5,9.5 1.5,4 z"
      sodipodi:nodetypes="cccc" />
   <rect
-     style="opacity:0;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline"
      id="rect3163"
      width="21"
      height="17"

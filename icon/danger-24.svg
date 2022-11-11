@@ -37,12 +37,12 @@
          d="m 564.5,1054.3622 c -2.5,0 -4.5,2 -4.5,4 l 0,2 c 0,1 2,1 2,2 l 0,1 2.5,1 2.5,-1 0,-1 c 0,-1 2,-1 2,-2 l 0,-2 c 0,-2 -2,-4 -4.5,-4 z m -1.5,3 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z m 3,0 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z m -8,6 c -0.5,0 -1,0.5 -1,1 l 0,0.5 5.25,2.25 -5.25,2.25 0,0.5 c 0,0.5 0.5,1 1,1 l 14,-6 0,-0.5 c 0,-0.5 -0.5,-1 -1,-1 l -6.5,2.7813 -6.5,-2.7813 z m 10.5,4.5 -2.25,0.9688 4.75,2.0312 c 0.5,0 1,-0.5 1,-1 l 0,-0.5 -3.5,-1.5 z"
          inkscape:connector-curvature="0"
          id="path5529"
-         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
       <path
          d="m 564.5,1054.3622 c -2.5,0 -4.5,2 -4.5,4 l 0,2 c 0,1 2,1 2,2 l 0,1 2.5,1 2.5,-1 0,-1 c 0,-1 2,-1 2,-2 l 0,-2 c 0,-2 -2,-4 -4.5,-4 z m -1.5,3 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z m 3,0 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z m -8,6 c -0.5,0 -1,0.5 -1,1 l 0,0.5 5.25,2.25 -5.25,2.25 0,0.5 c 0,0.5 0.5,1 1,1 l 14,-6 0,-0.5 c 0,-0.5 -0.5,-1 -1,-1 l -6.5,2.7813 -6.5,-2.7813 z m 10.5,4.5 -2.25,0.9688 4.75,2.0312 c 0.5,0 1,-0.5 1,-1 l 0,-0.5 -3.5,-1.5 z"
          inkscape:connector-curvature="0"
          id="path4236"
-         style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline" />
     </g>
   </g>
   <rect

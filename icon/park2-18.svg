@@ -39,12 +39,12 @@
            d="m 200,1083.3622 c 0,-1 -1,-2 -1.5,-2 0.30686,-0.3437 0.61108,-1.0028 0.61108,-1.4999 0,-1.0738 -1.11108,-2.0001 -2.11108,-2.0001 0,-1 -0.5,-1.5 -1.5,-1.5 -1,0 -1.5,0.5 -1.5,1.5 -1,0 -2.11108,0.9266 -2.11108,2.0005 0,0.4971 0.30422,1.1558 0.61108,1.4995 -0.5,0 -1.5,1 -1.5,2 0,1 0.5,2.056 2.05557,2.056 l 0.38889,0 0.0555,0.944 1.5,1.5 -4e-5,2.5 1,0 4e-5,-2.5004 1.5,-1.4996 0.0555,-0.944 0.55902,-0.012 C 199.5,1085.3622 200,1084.3622 200,1083.3622 z m -5.5,2 2,0 0,0.5 -1,1 -1,-1 z"
            inkscape:connector-curvature="0"
            id="path14353"
-           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <path
            d="m 200,1083.3622 c 0,-1 -1,-2 -1.5,-2 0.30686,-0.3437 0.61108,-1.0028 0.61108,-1.4999 0,-1.0738 -1.11108,-2.0001 -2.11108,-2.0001 0,-1 -0.5,-1.5 -1.5,-1.5 -1,0 -1.5,0.5 -1.5,1.5 -1,0 -2.11108,0.9266 -2.11108,2.0005 0,0.4971 0.30422,1.1558 0.61108,1.4995 -0.5,0 -1.5,1 -1.5,2 0,1 0.5,2.056 2.05557,2.056 l 0.38889,0 0.0555,0.944 1.5,1.5 -4e-5,2.5 1,0 4e-5,-2.5004 1.5,-1.4996 0.0555,-0.944 0.55902,-0.012 C 199.5,1085.3622 200,1084.3622 200,1083.3622 z m -5.5,2 2,0 0,0.5 -1,1 -1,-1 z"
            inkscape:connector-curvature="0"
            id="path4390-3-6"
-           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>

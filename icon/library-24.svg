@@ -40,7 +40,7 @@
            d="m 244,1101.3622 0,10 c 3,3 7,2 7,4 l 1,0 0,-9 c 0,-3 -5,-3 -8,-5 z m 17,0 c -3,2 -8,2 -8,5 l 0,9 1,0 c 0,-2 4,-1 7,-4 z"
            inkscape:connector-curvature="0"
            id="path14014"
-           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <g
            transform="translate(0,-1)"
            id="g16654">
@@ -48,7 +48,7 @@
              d="m 244,1102.3622 0,10 c 3,3 7,2 7,4 l 1,0 0,-9 c 0,-3 -5,-3 -8,-5 z m 17,0 c -3,2 -8,2 -8,5 l 0,9 1,0 c 0,-2 4,-1 7,-4 z"
              inkscape:connector-curvature="0"
              id="path7994-9-9"
-             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline" />
         </g>
       </g>
     </g>

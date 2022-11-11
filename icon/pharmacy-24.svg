@@ -39,12 +39,12 @@
            d="m 252.5,1148.3622 c -3.03757,0 -5.5,1.1193 -5.5,2.5 l 0,3 c 0,1.3807 2.46243,2.5 5.5,2.5 3.03757,0 5.5,-1.1193 5.5,-2.5 l 0,-3 c 0,-1.3807 -2.46243,-2.5 -5.5,-2.5 z m -5.5,9 0,7.5 c 0,1.3807 2.46243,2.5 5.5,2.5 3.03757,0 5.5,-1.1193 5.5,-2.5 l 0,-7.5 c 0,-1 -0.5,-1 -1,-0.5 -0.83861,0.8935 -2.2278,1.5 -4.5,1.5 -2.22714,0 -3.63511,-0.6347 -4.5,-1.5 -0.5,-0.5 -1,-0.5 -1,0.5 z"
            inkscape:connector-curvature="0"
            id="path24623"
-           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <path
            d="m 252.5,1148.3622 c -3.03757,0 -5.5,1.1193 -5.5,2.5 l 0,3 c 0,1.3807 2.46243,2.5 5.5,2.5 3.03757,0 5.5,-1.1193 5.5,-2.5 l 0,-3 c 0,-1.3807 -2.46243,-2.5 -5.5,-2.5 z m -5.5,9 0,7.5 c 0,1.3807 2.46243,2.5 5.5,2.5 3.03757,0 5.5,-1.1193 5.5,-2.5 l 0,-7.5 c 0,-1 -0.5,-1 -1,-0.5 -0.83861,0.8935 -2.2278,1.5 -4.5,1.5 -2.22714,0 -3.63511,-0.6347 -4.5,-1.5 -0.5,-0.5 -1,-0.5 -1,0.5 z m 3,3 c 0.75195,0.1754 1.5967,0.2813 2.5,0.2813 0.9033,0 1.74805,-0.1059 2.5,-0.2813 l 0,4 c -0.75195,0.1754 -1.5967,0.2813 -2.5,0.2813 -0.9033,0 -1.74805,-0.1059 -2.5,-0.2813 z"
            inkscape:connector-curvature="0"
            id="rect14245"
-           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>

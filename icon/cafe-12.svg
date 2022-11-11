@@ -39,12 +39,12 @@
            d="m 363.5,1076.3622 c -0.27701,0 -0.5,0.223 -0.5,0.5 l 0,4.5 c 0,0.277 0.22299,0.5 0.5,0.5 l 5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-0.5 0.25,0 c 0.25,0 0.25,-0.25 0.25,-0.25 l 0,-0.25 0.5,0 c 0.5,0 1,-0.5 1,-1 l 0,-0.5 0,-1 c 0,-0.25 -0.25,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 5.5,1.5 1.25,0 c 0.25,0 0.25,0.25 0.25,0.25 l 0,1.25 c 0,0.25 -0.25,0.5 -0.5,0.5 l -0.5,0 -0.5,0 z m -7,4.5 1.5,1.5 5,0 1.5,-1.5 z"
            inkscape:connector-curvature="0"
            id="path14854"
-           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <path
            d="m 363.5,1076.3622 c -0.27701,0 -0.5,0.223 -0.5,0.5 l 0,4.5 c 0,0.277 0.22299,0.5 0.5,0.5 l 5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-0.5 0.25,0 c 0.25,0 0.25,-0.25 0.25,-0.25 l 0,-0.25 0.5,0 c 0.5,0 1,-0.5 1,-1 l 0,-0.5 0,-1 c 0,-0.25 -0.25,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z m 5.5,1.5 1.25,0 c 0.25,0 0.25,0.25 0.25,0.25 l 0,1.25 c 0,0.25 -0.25,0.5 -0.5,0.5 l -0.5,0 -0.5,0 z m -7,4.5 2,1 4,0 2,-1 z"
            inkscape:connector-curvature="0"
            id="rect9826-2-1-5"
-           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>
