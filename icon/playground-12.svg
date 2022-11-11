@@ -34,13 +34,13 @@
        inkscape:connector-curvature="0"
        transform="translate(0,1040.3622)"
        id="path4073"
-       style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline" />
     <path
        d="M 8,1 C 7.446,1 7,1.446 7,2 7,2.554 7.446,3 8,3 8.554,3 9,2.554 9,2 9,1.446 8.554,1 8,1 z M 5,2 C 4.4460001,2 4,2.4459 4,3 4,3.5539 4.4460001,4 5,4 5.5539999,4 6,3.5539 6,3 6,2.4459 5.5539999,2 5,2 z M 8,4 7.53125,6.875 5.40625,7.125 5,5 4,5 3.03125,7.375 2,7.5 2,9 C 3.4165396,8.8426224 4.8334604,8.6886511 6.25,8.53125 L 5,11 8,11 6.75,8.46875 C 8.1665396,8.3113489 9.5834604,8.1573776 11,8 L 11,6.5 9.90625,6.625 9,4 z"
        inkscape:connector-curvature="0"
        transform="translate(0,1040.3622)"
        id="path4129"
-       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
   </g>
   <rect
      width="12"

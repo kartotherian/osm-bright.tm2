@@ -38,13 +38,13 @@
     </g>
   </g>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;visibility:visible;opacity:0.3;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none"
      id="path8089"
      d="m 1.9999997,5.5000182 c 0,2.485283 2.0147188,4.4999978 4.5000001,4.4999978 C 8.9852811,10.000016 11,7.9853012 11,5.5000182 11,3.0147351 8.9852811,1.0000202 6.4999998,1.0000202 c -2.4852813,0 -4.5000001,2.0147149 -4.5000001,4.499998 z" />
   <path
      d="m 1.9999997,5.5000182 c 0,2.485283 2.0147188,4.4999978 4.5000001,4.4999978 C 8.9852811,10.000016 11,7.9853012 11,5.5000182 11,3.0147351 8.9852811,1.0000202 6.4999998,1.0000202 c -2.4852813,0 -4.5000001,2.0147149 -4.5000001,4.499998 z"
      id="path8564-0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+     style="color:#000000;display:inline;visibility:visible;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none" />
   <rect
      style="fill:none;stroke:none;visibility:hidden"
      id="canvas"

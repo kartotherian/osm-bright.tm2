@@ -44,12 +44,12 @@
            x="-36"
            y="1007.3621"
            id="rect11288"
-           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline" />
         <path
            d="m -34.999995,1007.3622 14.999998,0 c 0.553998,0 0.999997,0.446 0.999997,1 l 0,15 c 0,0.554 -0.445999,1 -0.999997,1 l -14.999998,0 c -0.553999,0 -0.999997,-0.446 -0.999997,-1 l 0,-15 c 0,-0.554 0.445998,-1 0.999997,-1 z"
            inkscape:connector-curvature="0"
            id="rect11290"
-           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>

@@ -72,7 +72,7 @@
        inkscape:label="#g4394"
        id="generic-md-3">
       <rect
-         style="opacity:0.33000004;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0.33000004;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline"
          id="rect3455"
          width="35"
          height="13.000003"
@@ -88,7 +88,7 @@
          height="10.999992"
          width="33"
          id="rect3457"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline"
          ry="1.0000021"
          rx="1.0000021" />
     </g>

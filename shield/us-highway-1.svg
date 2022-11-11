@@ -71,13 +71,13 @@
      id="layer1"
      transform="translate(-301,-901.36218)">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker:none;visibility:visible;display:inline;opacity:1"
        clip-path="none"
        d="M 3.5 1 L 0.5 3.5 C 1 4 2.5 5 1.5 7 C 0.5 9 0 12 2 14 C 4.5 16.5 7.5 14.5 8.5 16.5 C 9.5 14.5 12.5 16.5 15 14 C 17 12 16.5 9 15.5 7 C 14.5 5 16 4 16.5 3.5 L 13.5 1 C 11.5 2 11 3 8.5 1 C 6 3 5.5 2 3.5 1 z "
        transform="translate(301,901.36218)"
        id="path3799" />
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;opacity:0"
        id="rect3803"
        width="17"
        height="17"

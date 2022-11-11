@@ -39,13 +39,13 @@
            d="m 114,1124.3622 -2,1.5 0,7.5 c 0,0.5 0.5,1 1,1 l 9,0 c 0.5,0 1.06608,-0.5044 1,-1 l 0,-7.5 -2,-1.5 z m 2.5,11 -3.5,2 9,0 -3.5,-2 z"
            inkscape:connector-curvature="0"
            id="path8182"
-           style="opacity:0.3;color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <path
            d="m 234,98 -2,1.5 0,7.5 c 0,0.5 0.5,1 1,1 l 9,0 c 0.5,0 1,-0.5 1,-1 l 0,-7.5 -2,-1.5 z m 1.5,1 4,0 1.5,1 0,2 -7,0 0,-2 z m -0.75,5.5 c 0.41421,0 0.75,0.3358 0.75,0.75 0,0.4142 -0.33579,0.75 -0.75,0.75 -0.41421,0 -0.75,-0.3358 -0.75,-0.75 0,-0.4142 0.33579,-0.75 0.75,-0.75 z m 5.5,0 c 0.41421,0 0.75,0.3358 0.75,0.75 0,0.4142 -0.33579,0.75 -0.75,0.75 -0.41421,0 -0.75,-0.3358 -0.75,-0.75 0,-0.4142 0.33579,-0.75 0.75,-0.75 z m -3.75,4.5 -3.5,2 9,0 -3.5,-2 z"
            inkscape:connector-curvature="0"
            transform="translate(-120,1026.3622)"
            id="path8176"
-           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>

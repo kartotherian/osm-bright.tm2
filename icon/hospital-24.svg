@@ -42,13 +42,13 @@
            inkscape:connector-curvature="0"
            transform="translate(0,1004.3622)"
            id="rect8213-8"
-           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline" />
         <path
            d="m 83,124 c -0.554,0 -1,0.446 -1,1 l 0,4 -4,0 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 0,4 c 0,0.554 0.446,1 1,1 l 3,0 c 0.554,0 1,-0.446 1,-1 l 0,-4 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l -4,0 0,-4 c 0,-0.554 -0.446,-1 -1,-1 z"
            inkscape:connector-curvature="0"
            transform="translate(-72,884.3622)"
            id="rect8206-4"
-           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>

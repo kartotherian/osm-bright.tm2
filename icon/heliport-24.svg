@@ -40,12 +40,12 @@
            d="m 96.25,1091.3622 8.75,0 c 0.5,0 1,-0.5 1,-1 l 0,-3 c 0,-1 -0.48076,-1.4808 -1,-2 0,0 -0.66667,-0.6667 -1,-1 -0.33333,-0.3333 -1,-1 -2,-1 l -3,0 0,-2 4,0 2,0 c 0.55399,0 1,-0.446 1,-1 0,-0.554 -0.44601,-1 -1,-1 l -2,0 -3.5,0 -1,0 -4.5,0 -1,0 -1,0 c -0.553995,0 -1,0.446 -1,1 0,0.554 0.446005,1 1,1 l 1,0 1,0 4,0 0,2 -3,0 -4.28125,0 c -0.346043,-0.5969 -0.979146,-1 -1.71875,-1 -1.104569,0 -2,0.8954 -2,2 0,1.1046 0.895431,2 2,2 0.577042,0 1.072461,-0.2653 1.4375,-0.6562 L 94,1089.3622 c 1,1.0263 1.75,2 2.25,2 z m -7.25,-8 c 0.552285,0 1,0.4477 1,1 0,0.5523 -0.447715,1 -1,1 -0.552285,0 -1,-0.4477 -1,-1 0,-0.5523 0.447715,-1 1,-1 z"
            inkscape:connector-curvature="0"
            id="path15139"
-           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <path
            d="m 96.25,1091.3622 8.75,0 c 0.5,0 1,-0.5 1,-1 l 0,-3 c 0,-1 -0.48076,-1.4808 -1,-2 0,0 -0.66667,-0.6667 -1,-1 -0.33333,-0.3333 -1,-1 -2,-1 l -3,0 0,-2 4,0 2,0 c 0.55399,0 1,-0.446 1,-1 0,-0.554 -0.44601,-1 -1,-1 l -2,0 -3.5,0 -1,0 -4.5,0 -1,0 -1,0 c -0.553995,0 -1,0.446 -1,1 0,0.554 0.446005,1 1,1 l 1,0 1,0 4,0 0,2 -3,0 -4.28125,0 c -0.346043,-0.5969 -0.979146,-1 -1.71875,-1 -1.104569,0 -2,0.8954 -2,2 0,1.1046 0.895431,2 2,2 0.577042,0 1.072461,-0.2653 1.4375,-0.6562 L 94,1089.3622 c 1,1.0263 1.75,2 2.25,2 z m -7.25,-8 c 0.552285,0 1,0.4477 1,1 0,0.5523 -0.447715,1 -1,1 -0.552285,0 -1,-0.4477 -1,-1 0,-0.5523 0.447715,-1 1,-1 z"
            inkscape:connector-curvature="0"
            id="rect9361"
-           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>

@@ -41,12 +41,12 @@
            d="m 6,1008.3622 c -0.554,0 -1,0.446 -1,1 l 0,3 0,7 0,3 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 3,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 3,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 3,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-13 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 l 0,2 -3,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 l 0,2 -3,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 l 0,2 -3,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 z m 1,5 3,0 0,5 -3,0 z m 5,0 3,0 0,5 -3,0 z m 5,0 3,0 0,5 -3,0 z"
            inkscape:connector-curvature="0"
            id="path4517"
-           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline" />
         <path
            d="m 6,1008.3622 c -0.554,0 -1,0.446 -1,1 l 0,3 0,7 0,3 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 3,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 3,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-2 3,0 0,2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 l 0,-13 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 l 0,2 -3,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 l 0,2 -3,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 -0.554,0 -1,0.446 -1,1 l 0,2 -3,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 z m 1,5 3,0 0,5 -3,0 z m 5,0 3,0 0,5 -3,0 z m 5,0 3,0 0,5 -3,0 z"
            inkscape:connector-curvature="0"
            id="rect4496"
-           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline" />
       </g>
     </g>
   </g>
